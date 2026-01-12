@@ -16,6 +16,3 @@ A dashboard project designed to showcase multiple pages such as Dashboard, Proje
 
 ## Contributing
 If you'd like to improve the project, open an issue or submit a pull request to your repository.
-
-## License
-Add a license file (e.g., `LICENSE`) if you plan to share the project publicly.
